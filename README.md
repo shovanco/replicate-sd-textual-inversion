@@ -10,7 +10,8 @@ This demo repo illustrates how to run GitHub Codespaces to fine-tune [Stable Dif
 * [Deploy your trained concept on Replicate](#deploy-your-trained-concept-on-replicate)
 
 Video Tutorial 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5jZGLYcLfOo/0.jpg)](https://www.youtube.com/watch?v=5jZGLYcLfOo)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5jZGLYcLfOo/maxresdefault.jpg)](https://www.youtube.com/watch?v=5jZGLYcLfOo)
 
 
 
