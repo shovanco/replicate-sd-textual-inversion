@@ -9,6 +9,11 @@ This demo repo illustrates how to run GitHub Codespaces to fine-tune [Stable Dif
 * [Test your trained concept locally](#test-your-trained-concept-locally)
 * [Deploy your trained concept on Replicate](#deploy-your-trained-concept-on-replicate)
 
+Video Tutorial 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5jZGLYcLfOo/0.jpg)](https://www.youtube.com/watch?v=5jZGLYcLfOo)
+
+
+
 ## Set up your environment
 
 1. Clone this repo and install [Cog](https://github.com/replicate/cog#install) if you haven't already. If you're using GitHub Codespaces, you can install Cog and all the required dependencies by running this command:
