@@ -26,6 +26,7 @@ This demo repo illustrates how to run GitHub Codespaces to fine-tune [Stable Dif
 3. Run 
 
     ```
+    python -m pip install huggingface_hub
     huggingface-cli login
     ```
 
